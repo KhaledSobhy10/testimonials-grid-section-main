@@ -3,15 +3,16 @@ body{
     padding: 0;
     font-family: 'Barlow Semi Condensed', sans-serif;
     font-family: 'Cairo', sans-serif;
+    background-color: gray;
 }
 
 .contanier{
     padding: 20px;
-    background-color: gray;
     display: grid;
     grid-template-columns: repeat(4,auto);
     grid-template-rows: auto auto;
     gap: 30px;
+    
 }
 
 
